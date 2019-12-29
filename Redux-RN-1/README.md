@@ -1,5 +1,5 @@
+# THis is Uthaya - Sharing knowledge
 # React Native Redux
-
 1. Redux integation in React Native.
 2. Webservice integration using axios.
 3. FlatList integration in React Native 
@@ -8,7 +8,7 @@
 ## Clone Repository
 
 ```bash
-git clone https://github.com/tekhubapps/Redux-FlatList.git
+git clone https://github.com/UthayaGit/Redux-RN-Poc.git
 ```
 
 ## Install node modules
