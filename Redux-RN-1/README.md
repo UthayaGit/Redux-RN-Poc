@@ -1,4 +1,4 @@
-# THis is Uthaya - Sharing knowledge
+# This is Uthaya - Sharing our knowledge
 # React Native Redux
 1. Redux integation in React Native.
 2. Webservice integration using axios.
